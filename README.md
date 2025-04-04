@@ -1,6 +1,6 @@
 # WorldStudios-Big-Java-Addon
 
-THIS ADDON IS CURRENLY IN IT'S TESTING PHASE. If you find any bugs, please report them here: https://forms.gle/3DFEteBgZ4LrTCmA8
+THIS ADDON IS CURRENLY IN IT'S TESTING PHASE.
 
 Currently, this mod supports Minecraft 1.21.4 (NeoForge 21.4.123).
 
